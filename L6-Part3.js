@@ -11,4 +11,18 @@ $(function () {
             "background-color" : "green"
         })
     });
+
+    $("#h1_blue").click(function(){
+        $("h1").css({
+            "color" : "blue"
+        })
+    });
+
+    $("#remove_not_important").click(function(){
+        $(".not_important").hide();
+    });
+
+    $("li").click(function () {
+        $(this).slideUp(1000)
+    })
 });
