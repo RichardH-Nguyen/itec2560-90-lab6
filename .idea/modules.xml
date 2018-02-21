@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Lab6/.idea/hello_jquery.iml" filepath="$PROJECT_DIR$/../Lab6/.idea/hello_jquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/itec2560-90-lab6.iml" filepath="$PROJECT_DIR$/.idea/itec2560-90-lab6.iml" />
     </modules>
   </component>
 </project>
